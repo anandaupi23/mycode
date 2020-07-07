@@ -1,1 +1,29 @@
-{"data":[{"id":"USER1","name":"Zhulfikar Anugrah","nim":"172101888"},{"id":"USER2","name":"Noval Aditya","nim":"172101884"},{"id":"USER3","name":"Hamim Rizki","nim":"172101890"},{"id":"USER4","name":"Ferdy Kristanto","nim":"172101890"},{"id":"USER5","name":"Gema","nim":"172101890"}]}
+{
+  "result": [
+    {
+      "id": "USER1",
+      "name": "Zhulfikar Anugrah",
+      "nim": "172101888"
+    },
+    {
+      "id": "USER2",
+      "name": "Noval Aditya",
+      "nim": "172101884"
+    },
+    {
+      "id": "USER3",
+      "name": "Hamim Rizki",
+      "nim": "172101890"
+    },
+    {
+      "id": "USER4",
+      "name": "Ferdy Kristanto",
+      "nim": "172101890"
+    },
+    {
+      "id": "USER5",
+      "name": "Gema",
+      "nim": "172101890"
+    }
+  ]
+}
